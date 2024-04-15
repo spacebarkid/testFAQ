@@ -1,4 +1,4 @@
-[
+{
     "Section1": [
         {
             "question": "What is JSON?",
@@ -10,4 +10,4 @@
             }
         }
     ]
-]
+}
