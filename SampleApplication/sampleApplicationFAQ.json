@@ -9,6 +9,16 @@
              "title":"Read more on Wikipedia",
              "url":"https://wikipedia.org/en/json"
           }
-       }
+       },
+       {
+        "question":"Is Gynelle Stinky?",
+        "answer":"It is certain",
+        "sectionName":"General Questions",
+        "link":{
+           "type":"External",
+           "title":"Read more on Wikipedia",
+           "url":"https://wikipedia.org/en/json"
+        }
+     }
     ]
  }
