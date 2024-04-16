@@ -1,13 +1,14 @@
 {
-    "Section1": [
-        {
-            "question": "What is JSON?",
-            "answer": "JSON stands for JavaScript Object Notation",
-            "link": {
-                "type": "External",
-                "title": "Read more on Wikipedia",
-                "url": "https://wikipedia.org/en/json"
-            }
-        }
+    "questions":[
+       {
+          "question":"What is JSON?",
+          "answer":"JSON stands for JavaScript Object Notation",
+          "sectionName":"General Questions",
+          "link":{
+             "type":"External",
+             "title":"Read more on Wikipedia",
+             "url":"https://wikipedia.org/en/json"
+          }
+       }
     ]
-}
+ }
